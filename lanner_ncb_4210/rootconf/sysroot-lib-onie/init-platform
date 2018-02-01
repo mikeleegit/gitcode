@@ -14,5 +14,4 @@
 # architecture specific initialization.  This function executes before
 # the architecture initializations.
 init_platform_pre_arch() {
-	init_usb_hub 2>/dev/null
 }
