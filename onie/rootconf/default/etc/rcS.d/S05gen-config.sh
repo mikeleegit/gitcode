@@ -1,1 +1,0 @@
-../init.d/gen-config.sh
